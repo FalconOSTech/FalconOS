@@ -11,7 +11,7 @@ FalconOS is an open-source operating system designed for coders and hackers to c
 
 To install FalconOS, follow these steps:
 
-1. Download the suitable file according to your preferance.
+1. Download using link - https://www.mediafire.com/file/ejek2eiz7rp6ueu/Falcon.ova/file
 2. Flash the downloaded file where you want e.g. Virtual Machine, Bootable, etc.
 3. Launch it.
 
